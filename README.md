@@ -25,5 +25,5 @@ This project involves the analysis of a sample dataset to demonstrate SQL concep
 
 
 <h3>Schema</h3>
-https://github.com/user-attachments/assets/5a6bdd19-966a-4b82-a04d-6edaf796b34a
+schema.png
 
