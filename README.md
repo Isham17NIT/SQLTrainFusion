@@ -4,7 +4,7 @@ This project focuses on managing and analyzing train schedules and operations us
 
 
 <h3>Project Overview</h3>
-This project involves the analysis of a sample dataset to demonstrate SQL concepts and techniques. The key aspects of the project include:</br></br>
+This project involves the analysis of a sample dataset to demonstrate SQL concepts and techniques. The key aspects of the project include:</br>
 
 
 <h4>1)Foreign Key Constraints:</h4>Ensuring data integrity by establishing relationships between tables, such as linking train_schedule and train_info via foreign key constraints.
