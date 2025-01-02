@@ -17,13 +17,6 @@ This project involves the analysis of a sample dataset to demonstrate SQL concep
 <h4>8)Group By and Order By Clauses:</h4>Grouping data based on specific columns and ordering results to gain meaningful insights.
 
 
-
-
-
-
-
-
-
 <h3>Schema</h3>
-schema.png
+![image_alt](https://github.com/Isham17NIT/SQLTrainFusion/blob/04a15fcb9d0759814abe91f02b91854360ff193a/schema.png)
 
