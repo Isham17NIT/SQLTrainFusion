@@ -1,4 +1,4 @@
-							-- Train Scheduling and Operation Related Queries
+                -- Train Scheduling and Operation Related Queries
 
 -- Make Train_No as foreign key in train_schedule table
 ALTER TABLE train_schedule
