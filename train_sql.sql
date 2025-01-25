@@ -2,7 +2,7 @@
 
 -- Make Train_No as foreign key in train_schedule table
 ALTER TABLE train_schedule
-ADD FOREIGN KEY(Train_No) REFERENCES train_info(Train_No);
+ADD FOREIGN KEY(Train_No) REFERENCES train_info(Train_No) ON UPDATE CASCADE ON DELETE CASCADE;
 
 
 -- Trains that don't operate on weekends
