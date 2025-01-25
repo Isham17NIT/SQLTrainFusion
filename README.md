@@ -18,4 +18,4 @@ This project involves the analysis of a sample dataset to demonstrate SQL concep
 
 
 <h3>Schema</h3>
-https://github.com/user-attachments/assets/dfc96605-cbb4-421d-ba65-c6b8c5afeb72
+
