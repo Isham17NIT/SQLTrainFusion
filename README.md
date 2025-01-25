@@ -18,4 +18,4 @@ This project involves the analysis of a sample dataset to demonstrate SQL concep
 
 
 <h3>Schema</h3>
-
+https://github.com/Isham17NIT/SQLTrainFusion/blob/b4dafc6f740ba13e7e0187bf5c2d85a5d82d8176/schema.png
